@@ -1,0 +1,23 @@
+body{
+    background-color: gray;
+    height: 100vh;   
+    color: azure;
+}
+.container{
+width: 60%;
+height: 100%;
+background-color: black;
+margin-right: auto;
+margin-left: auto;
+border-radius: 15px;
+}
+
+.header img{
+    width:160px;
+    height:auto;
+   border-radius: 100px;
+}
+.header{
+    text-align: center;
+}
+h4{text-align: center;}
